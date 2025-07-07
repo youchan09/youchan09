@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm This is Youchan Noh, a developer who wants to be recognized</h1>
+<h1 align="left">Hi 👋, This is Youchan Noh, a developer who wants to be recognized</h1>
 <h3 align="left">I work with the goal of growing every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youchan09&label=Profile%20views&color=0e75b6&style=flat" alt="youchan09" /> </p>
